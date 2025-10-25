@@ -1,9 +1,9 @@
 {
+  "users": [
+    { "id": 1, "email": "test@gmail.com", "password": "123456", "token": "abc123xyz" }
+  ],
   "posts": [
     { "id": 1, "title": "Xin chào", "content": "Đây là bài viết đầu tiên" },
     { "id": 2, "title": "REST API", "content": "Giới thiệu về RESTful API" }
-  ],
-  "comments": [
-    { "id": 1, "postId": 1, "body": "Bài viết hay lắm!" }
   ]
 }
